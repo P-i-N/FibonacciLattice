@@ -1,5 +1,6 @@
 # Fibonacci Lattice
 Blender 2.7x addon for generating uniformly distributed points on a sphere using Fibonacci lattices
+[(show animation)](https://raw.github.com/P-i-N/FibonacciLattice/master/animation.gif)
 
 ### Installation and usage
 
@@ -11,4 +12,4 @@ Blender 2.7x addon for generating uniformly distributed points on a sphere using
 
 ---
 
-![](https://raw.github.com/P-i-N/FibonacciLattice/master/animation.gif)
+
