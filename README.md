@@ -9,7 +9,3 @@ Blender 2.7x addon for generating uniformly distributed points on a sphere using
  - in 3D view select `Add` => `Mesh` => `Fib. lattice`
  - set desired parameters (number of points, radius...)
  - enjoy!
-
----
-
-
